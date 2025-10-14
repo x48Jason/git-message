@@ -13,7 +13,7 @@
 #	$my_signoff: The signoff that want to use
 #
 
-$bugzilla = "https://gitee.com/openeuler/issues/BBBBBB";
+$bugzilla = "https://gitee.com/openeuler/intel-kernel/issues/BBBBBB";
 $reference = "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=$upstream_commit";
 
 
